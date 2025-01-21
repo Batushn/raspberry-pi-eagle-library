@@ -1,5 +1,7 @@
 # Raspberry Pi Eagle Library
 
+![image](https://github.com/user-attachments/assets/d91eeaf8-ff6f-4e07-b0c7-59e0c8c60e83)
+
 This repository contains an Eagle library for the Raspberry Pi 5, which is also fully compatible with Raspberry Pi 4 and Raspberry Pi 3 models. The library includes GPIO headers, board outlines, and connector placements, making it an essential tool for designing HATs and custom PCB add-ons for the Raspberry Pi platform.
 
 ## Features
